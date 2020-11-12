@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of me](https://ca.slack-edge.com/T02MBSWU8-U01ADG7AT3P-6b8b63e7db12-512)
